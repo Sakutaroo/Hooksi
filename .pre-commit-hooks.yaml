@@ -1,0 +1,6 @@
+- id: hooksi
+  name: Hooksi
+  entry: hooksi
+  description: Hooksi for better stats
+  types_or: [c++, header]
+  language: python
